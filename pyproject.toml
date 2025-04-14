@@ -1,0 +1,11 @@
+[project]
+name = "UvATutorial"
+version = "0"
+dependencies = [
+    "numpy",
+    "matplotlib",
+    "tqdm",
+    "torch",
+    "torchvision",
+    "pytorch-lightning",
+]

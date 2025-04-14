@@ -1,0 +1,8 @@
+.vscode
+.venv
+build
+**.egg-info
+**\__pycache__
+*.csv
+data
+checkpoints
